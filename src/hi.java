@@ -3,6 +3,7 @@ public class hi {
 
         System.out.println("Hello and welcome!");
          System.out.println("Hello from another account!");
+        System.out.println("Hello from another account!");
         // modify
         // second modfiy
 }}
